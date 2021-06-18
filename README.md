@@ -59,3 +59,10 @@
 ##### MySQL.
 ##### Instituição: Elaborata informática.
 ##### Duração: 27/07/2010 a 13/08/2010, 42 horas.
+
+### Conhecimentos técnicos
+
+##### Linguagens PHP, JAVA SCRIPT, C#, HTML e CSS
+##### Frameworks CodeIgniter, Bootstrap, DI / API SAP
+##### Bancos de dados SQL SERVER, MYSQL
+##### Ferramenta de versionamento GIT
