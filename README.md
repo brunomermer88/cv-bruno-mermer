@@ -66,3 +66,11 @@
 ##### Frameworks CodeIgniter, Bootstrap, DI / API SAP
 ##### Bancos de dados SQL SERVER, MYSQL
 ##### Ferramenta de versionamento GIT
+
+### Projetos pessoais
+
+##### Criação de um sistema para controle e acompanhamento de manutenção de equipamentos (criação de OS, apontamentos por técnicos, criação de orçamentos, apontamento de horas utilizadas, vendedor, técnicos responsaveis pela OS, emissão de pedido, consulta de estoque e clientes, integração com o SAP Business One). Este sistema esta em fase de desenvolvimento.
+
+### Rede social
+
+#### [Linkedin](https://www.linkedin.com/in/bruno-mermer-724625173) 
